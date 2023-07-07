@@ -1,4 +1,4 @@
-### Hi there 👋
+### My stack 👋
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -19,6 +19,10 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 🎢 GitHub Stats
+![Andruten's GitHub stats](https://github-readme-stats.vercel.app/api?username=andruten&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+![Andruten's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=andruten&theme=transparent&hide_border=false)
+![Andruten's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andruten&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **andruten/andruten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
